@@ -15,7 +15,7 @@
 
 ## 🔗 주요 링크
 
-- 🌐 **서비스 주소**: [https://www.2025-unis-fest-back.site](https://2025-unis-festival.vercel.app)
+- 🌐 **서비스 주소**: [https://2025-unis-festival.vercel.app](https://2025-unis-festival.vercel.app)
 - 💻 **프론트엔드 레포**: [2025-UNIS-EWHA-FESTIVAL-FRONT](https://github.com/2025-UNIS-EWHA-FESTIVAL/2025-UNIS-EWHA-FESTIVAL-FRONT)
 - 🔧 **백엔드 레포**: [2025-UNIS-EWHA-FESTIVAL-BACK](https://github.com/2025-UNIS-EWHA-FESTIVAL/2025-UNIS-EWHA-FESTIVAL-BACK)
 - 📘 **API 명세서**: [Notion 문서 보기](https://www.notion.so/API-1d5eff688ebe802dbf9ad03d9e61688a?pvs=4)
